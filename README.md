@@ -1,2 +1,2 @@
 # hello-world
-Tutorial to learn more about Github
+Creating a Github to use for freeCodeCamp Portfolio challenge.
